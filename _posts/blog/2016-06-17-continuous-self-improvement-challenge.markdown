@@ -2,30 +2,48 @@
 layout: post
 title: "Continuous Self Improvement Challenge"
 date: 2016-06-17 16:54:46
-author: Admin
+author: James Byars
 categories:
 - blog
-- 18 Days
-- Self Improvement Challenge
+- 18-Days
+- Self-Improvement-Challenge
 img: post03.jpg
 thumb: thumb03.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+## Inspiration
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I watched [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK REVIEW][youtube_video] presented by [FightMediocrity][author_page] on [YouTube][youtube_url] this morning and I felt inspired.  In general, I hear that habits take 18 days to form, give or take depending on your source.
 
-Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
+I'm going to take a set of Habits I want to focus on and repeat them for 18 days, documenting my journey along the way.
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## What is the purpose of this challenge?
 
-####Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+I want to build a habit.  Plain and simple.  The habit I want to build is a habit of continuously improving myself.  Honestly, I'm not the person clicking the "3 Ways To Be A Better Blah...".  I don't believe it.  
+
+There is so much advice on how to do things better that I must ignore it.  I'm going to take a different path, rather than reading a bunch of articles on how to improve myself, I'm going to actually do something.
+
+## How will I do it?
+
+My plan is fairly simple, I'm going to write a post each day for 18 days describing how I will, or have, executed on each habit.  I have chosen a set of habits to track based on the video.
+
+## Habits
+
+* Habit 1: Be Proactive
+* Habit 2: Begin with the end in mind
+* Habit 3: Put first things first
+* Habit 4: Think win-win
+* Habit 5: Seek first to understand, then to be understood
+* Habit 6: Synergize
+* Habit 7: Sharpen the saw
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+Note: Please support the work of [FightMediocrity][author_page] by subscribing to their [channel][author_page].
 
 
->Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-[hampden]: https://github.com/jekyll/jekyll
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
