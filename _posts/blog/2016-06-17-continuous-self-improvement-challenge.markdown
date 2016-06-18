@@ -15,7 +15,7 @@ thumb: thumb03.jpg
 
 I watched [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK REVIEW][youtube_video] presented by [FightMediocrity][author_page] on [YouTube][youtube_url] this morning and I felt inspired.  In general, I hear that habits take 18 days to form, give or take depending on your source.
 
-I'm going to take a set of Habits I want to focus on and repeat them for 18 days, documenting my journey along the way.
+I'm going to take a set of Habits I want to focus on and repeat them for 18 days, documenting <!--more--> my journey along the way.
 
 ## What is the purpose of this challenge?
 
