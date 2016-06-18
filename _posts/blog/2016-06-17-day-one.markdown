@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Continuous Self Improvement Challenge - Day 1"
+date: 2016-17-25 18:54:46
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post01.jpg
+thumb: thumb01.jpg
+---
+
+# Continuous Self Improvement Challenge - Day 1
+
+## Habit 1: Be Proactive
+
+Habit #1, be proactive.  I've decided I want to improve myself, I've chosen a strategy for doing so, and decided on a set of habits that I want to start focusing on.  I call that being proactive.
+
+## Habit 2: Begin with the end in mind
+
+Habit #2, beginning with the end in mind.  I know my goal is to work towards drilling a set of habits that I have chosen to focus on in order to improve myself.  I have chosen a strategy of how I will measure my habits and hold myself accountable.  My goal for the end of this challenge is for each of these habits to be engrained in my everyday thinking and decision making.
+
+I know that there are documented cases about how it takes 18 days, give or take, to form a habit.  So, here I am, in day 1, beginning with the end in mind.
+
+## Habit 3: Put first things first
+
+Habit #3, put first things first.  I have a lot of stuff going on in my life and I consider many things important and key.  Then I take a step back and look at myself now and compare it to how I want to be remembered.  Today, my list is as follows:
+
+1. Loving, caring husband and father
+2. Dedicated to learning
+3. Always trying to better myself
+4. Never being satisfied
+
+This is probably a shortened version and I'm sure I've missed things but that's ok for this post.
+
+Today I woke up to a crying baby, got food ready for her and made my wife breakfast.  Next, I sat down with breakfast and did my morning reading.  My wife and I had a conversation about a car we have been considering purchasing and we took some time to go test drive it.  I decided to come back home and focus on writing this blog post rather than watching TV or doing other distracting activities.  I also began the process of deciding which course I'll take this Fall.
+
+Put first things first, check.
+
+## Habit 4: Think win-win
+
+Habit #4, think win-win.  I'm excited to write about this one.  When I saw the [YouTube][youtube_url]] video [HE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK REVIEW][youtube_video] by [FightMediocrity][author_page] I could feel the inspiration boiling inside me, I had to act.
+
+I came up with a [plan to improve myself][challenge_blog_post] using the habits outlined in the [video][youtube_video].  I'm making sure to include links back to the source of the video in these posts because I'm sure that if people can see how this strategy is working for me, I can also help [FightMediocrity][author_page] grow their [YouTube][youtube_url] subscriptions and in turn, produce more inspiring videos.
+
+I win, [FightMediocrity][author_page] wins.
+
+## Habit 5: Seek first to understand, then to be understood
+
+Habit #5, seek first to understand, then to be understood.  I've watched the [video][youtube_video] many times through this idea.  I've made sure that I understand the point [FightMediocrity][author_page] is making for each habit.  Some of the habits seem simple enough, but when I start to examine each one I notice that I don't quite have a firm grasp of the meaning/purpose of each.  It is then that I go back and re-watch the segment for that habit.
+
+I believe the purpose of this goal is to become a more effective communicator and with todays post I may be twisting the meaning a bit.  At the same time, I think this is exactly the purpose of the goal, I cannot describe how I have set out to accomplish this goal without understanding it first.
+
+I understand these goals, I am seeking to have the results of my challenge understood.
+
+## Habit 6: Synergize
+
+Habit #6, synergize.  I laugh a bit at the word just because of its buzzword status among office humor but I digress.  My wife and I have been looking into purchasing a new car as mentioned above.  Between the two of us we have different expectations as would be expected.  
+
+Sitting with the salesman, we came together to describe the features we require a car to have in order to be considered for purchase.  I have a different expectation of the overall condition of the car where my wife really wants tan leather seats.  Both of these requests are valid, but we could not have communicated what we needed with the salesman if we had not worked together to synergize our requests.
+
+We ended the conversation with a set of specs that a car must meet in order to be considered for purchase.
+
+## Habit 7: Sharpen the saw
+
+Habit #7, sharpen the saw.  I could be doing 100 other things today rather than writing this post.  I could log onto my work machine and try to get ahead of some upcoming challenges.  I could refactor any of my Android apps or work on new features.  I could be working on finding new consulting work for my business.  
+
+Rather than jump into more work, I'm choosing to invest in myself and go through this 18 day challenge to change the way I think.
+
+Saw sharpening has commenced.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
