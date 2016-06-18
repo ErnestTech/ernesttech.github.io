@@ -6,7 +6,6 @@ author: James Byars
 categories:
 - blog
 - 18-Days
-- Self-Improvement-Challenge
 img: post03.jpg
 thumb: thumb03.jpg
 ---
@@ -41,7 +40,7 @@ My plan is fairly simple, I'm going to write a post each day for 18 days describ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
 
-Note: Please support the work of [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+If this article inspired you support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
 
 
 [youtube_video]: https://goo.gl/ARHXRc
