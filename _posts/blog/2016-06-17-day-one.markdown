@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Continuous Self Improvement Challenge - Day 1"
-date: 2016-17-25 16:54:46
+date: 2016-06-17 18:54:46
 author: James Byars
 categories:
 - blog
