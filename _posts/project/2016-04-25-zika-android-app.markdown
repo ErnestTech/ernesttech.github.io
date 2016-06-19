@@ -5,7 +5,7 @@ date:   2016-04-25 16:54:46
 author: James Byars
 categories:
 - project
-img: portfolio_08.jpg
+img: portfolio_zika_app.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
