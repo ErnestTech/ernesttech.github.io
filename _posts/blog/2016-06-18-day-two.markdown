@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Continuous Self Improvement Challenge - Day 2"
+date:   2016-06-18 21:54:46
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+## Status
+
+Day 2: I'm excited about the way I've been thinking about things.  I seem to always have the 7 habits in mind when I'm considering anything.  I haven't really explained what I'm doing to those around me<!--more-->, and that is on purpose.  I want to see if anyone notices anything and I'd like to report on it without biasing them by asking.
+
+For those reading this post who haven't read WHY I'm blogging about these 7 habits, hop over to the [challenge post][challenge_blog_post] where I describe what I'm trying to do.
+
+### Habit 1: Be Proactive
+
+I've been working on an Android app and I decided to spend some time bug-hunting on the Android emulator.  I identified a couple of little bugs that could have made their way into the production if I hadn't spent some time poking around.
+
+### Habit 2: Begin with the end in mind
+
+Sometimes it can be the simple things.  Today, it was lunch.  I live in Kansas City, and as a Kansas Citian I have a wide variety of BBQ restaurants that sounded delicious today.  I knew I had several things I needed to get done today so I chose a healthier, lighter lunch option.
+
+I knew that the post-BBQ meat-sweats would make it difficult to accomplish my goals for the day, so I made a different decision.
+
+### Habit 3: Put first things first
+
+A difficult one to point out today.  Rather than surfing the web or watching TV I'm writing this post.  By investing in writing this post I'm hoping I'll be better off in the long run.
+
+### Habit 4: Think win-win
+
+Someone willing to set me up with a potential client contacted me today to see if I could provide development services to a new business.  The person who wanted to see if I could help the client wanted information on how I do what I do and how much I charge.  
+
+I recommended that I first speak with the prospective client to see if my skills align with their business goals prior to moving the conversation any closer.  By telling a potential client that I may not be able to meet their needs results in a win-win situation because the prospective client may be more likely to recommend me to others because I treated them fairly and hostly.
+
+### Habit 5: Seek first to understand, then to be understood
+
+I had a conversation with someone who wants to set me up with a potential client for some custom development work.  The person who wanted to see if I could help the client wanted information on how I do what I do and how much I charge.  
+
+I suggested I meet with the potential client before providing such information because it is critical that I understand what the client wants before I know if I can deliver.  One of my business practices is to only commit to what I can deliver.
+
+### Habit 6: Synergize
+
+I feel the synergize habit is a bit forced.  My wife and I were needing to go somewhere and our 3 month old needed to be fed and changed and such.  We split the duties so we could work in parallel in order to get everything done quicker.  In the end we were able to accomplish what we needed to accomplish.
+
+### Habit 7: Sharpen the saw
+
+I've been working on an Android app that assists drivers who have an electric car find charging stations near them.  I'm using the Google Places API and Google Maps API for search and map details.  
+
+I realized I wasn't as familiar with the Google Maps API as I should be so I paused development and hopped over to the API docs and read through them.  Next, I found a couple of example implementation and read through them to see the APIs in action.
+
+In the end, I found myself understanding more about the APIs and in turn, able to integrate them better into my app.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
