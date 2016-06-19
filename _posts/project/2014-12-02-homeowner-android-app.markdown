@@ -5,7 +5,7 @@ date:   2014-12-02 16:54:46
 author: James Byars
 categories:
 - project
-img: portfolio_homeowner_app.jpg
+img: portfolio_homeowner_app.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
