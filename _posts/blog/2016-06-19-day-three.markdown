@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Continuous Self Improvement Challenge - Day 3"
+date:   2016-06-19 22:43:46
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+## Status
+
+Day 3: Today is Fathers Day and officially my 1st Fathers Day (I have a kitty that gets me a card each year).  I found myself thinking a lot about the future and making sure I'm going to be a part of my families future for as long as possible.  I realized there were steps I could take to <!--more-->ensure I am in good health in order to meet that goal.
+
+For those reading this post who haven't read WHY I'm blogging about these 7 habits, hop over to the [challenge post][challenge_blog_post] where I describe what I'm trying to do.
+
+### Habit 1: Be Proactive
+
+With my health in mind, I didn't wait to go see a Doctor for a physical and all that.  I knew that I could do cardio work on my own (and I know I'm fit for fitness) so I took myself out on a job this evening.
+
+### Habit 2: Begin with the end in mind
+
+I've been thinking for a while that I want to get myself into good enough shape to where I could run a half marathon.  I know that is something that I'll have to work towards and it won't come easy.  I know I'll have to take it step by step and work my way up to being able to run such a distance.  Tonight I ran 2.25 miles.
+
+### Habit 3: Put first things first
+
+This Father's Day is special because it was my first.  I wanted to spend it with my family and enjoy our time together.  So I'm writing this late at night.
+
+### Habit 4: Think win-win
+
+This may seem silly, but win-win actually crossed my mind while it happened...
+
+While I was on my run I came to an intersection about the same time as the car.  The car waved me ahead, but I saw the car would be left our in the intersection and another car was coming.  Rather than go ahead I motioned for the car to take their turn and then I followed.
+
+The car was safe, I was safe.
+
+### Habit 5: Seek first to understand, then to be understood
+
+Continuing our car search we stopped by a dealership earlier in the day.  The salesman we were working with was asking us what we would need in a car in order to buy today.  I started to answer with a an answer that would be less-than productive, but then thought to myself that what he really wanted was to know what we were after.  
+
+He knew that we weren't going to buy just any car and wanted to get an idea of what we would require in order to make the purchase.  He didn't actually think we were going to walk out with a car today.
+
+I responded by providing a set of features we desired in a car and we agreed to setup a search that will notify us when a car comes along.
+
+### Habit 6: Synergize
+
+I don't know why this is the hardest for me to write about each day so far.  While I enjoy working with a team I also find myself enjoying what I do during my time.  The past few posts have been written over the weekend when I'm not working with my team and I'm thinking it'll be much easier to write about synergy during the week.
+
+I'll commit to a couple solid examples of synergy in my next post.
+
+### Habit 7: Sharpen the saw
+
+The car we are about ready to get rid of needs a bit of work.  I don't want to invest any more money into the car than I have to since it is getting fairly old.  I've spent some time researching how I can fix a couple of key items on the car that will allow me to list it for a higher value.
+
+I didn't jump in and try to figure it out without doing some research first, and I've come up with a plan on what I'll fix.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
