@@ -8,9 +8,11 @@ categories:
 img: portfolio_homeowner_app.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- homeowner_list_view.png
+- homeowner_view_item_detail.png
+- homeowner_create_reminder.png
+- homeowner_reminder_notification.png
+- homeowner_view_reminders.png
 tagged: Android, Development
 client: ErnestTech, LLC
 website: http://homeownerapp.io
