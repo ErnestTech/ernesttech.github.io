@@ -60,7 +60,7 @@ I didn't jump in and try to figure it out without doing some research first, and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
 
-If this article inspired you support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+If this article inspired you, show support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
 
 [youtube_video]: https://goo.gl/ARHXRc
 [author_page]: https://goo.gl/ZRAjft
