@@ -68,4 +68,4 @@ If this article inspired you, show support [FightMediocrity][author_page] by sub
 [author_page]: https://goo.gl/ZRAjft
 [youtube_url]: https://www.youtube.com/
 [challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
-[day_one_post]: https://ernesttech.github.io/blog/18-days/day-three
+[day_one_post]: https://ernesttech.github.io/blog/18-days/day-one
