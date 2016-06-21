@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Continuous Self Improvement Challenge - Day 4"
+date:   2016-06-20 18:07:00
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+## Status
+
+Day 4: The past couple posts have been focused mainly on how I've handled each of these habits in my home life.  I'm happy to be writing today about how I've applied each of the 7 habits I've identified in my work life.
+
+For those reading this post who haven't read WHY I'm blogging about these 7 habits, hop over to the [challenge post][challenge_blog_post] where I describe what I'm trying to do.
+
+### Habit 1: Be Proactive
+
+There were a couple of items pertaining to technical debt at work today that had to be taken care of.  Our team practices Agile development, particularly Scrum.  I had some free time this sprint and our team was in a good place as far as completing all our sprint work so I decided to tackle a couple of our technical debt issues.
+
+It felt good to clean up some of our lingering issues.
+
+### Habit 2: Begin with the end in mind
+
+The technical debt work I started working on today (see Habit 1) is a task that isn't possible to complete in a day or even a week.  As I started to break out tasks on what could be done I laid out a plan on how we, as a team, can begin to tackle our technical debt and work towards creating less and less of it.
+
+I know it will be a process, but every journey beings with a first step.
+
+### Habit 3: Put first things first
+
+I've declared in [earlier posts][day_one_post] that I want to be remembered as a loving, caring husband and father.  I know that in order to do that I need to be in the best health possible so I can be here for my family.
+
+I had a lot of things that I needed to get done at work but I took some time to go to a follow-up Doctor appointment.
+
+### Habit 4: Think win-win
+
+The chair of my bachelors degree program and my Senior Project Advisor reached out to me regarding my Senior Project.  The project was a web application that allows genetic researchers to publish their findings for other researchers to review.
+
+He reached out to be because he had migrated hosting providers and was having trouble getting the web application back up.  I requested access to the server and took about an hour or so to take care of some configuration issues that were missed in the application migration.
+
+I win because my project is still live online from 2014 and my advisor can continue to provide the services to researchers.
+
+### Habit 5: Seek first to understand, then to be understood
+
+At work we discussed a few issues were were seeing in our prod-like environments.  I noticed a couple errors that I've come across in the past and I knew the fixes.  I took a step back on the issues and we worked together as a team to understand the issue and resolve it.  
+
+Taking this approach helped other team members learn about our configuration and get a better grasp of how debugging works in our specialized environments.
+
+### Habit 6: Synergize
+
+I spent quite a bit of time working with others on my team today towards our release goal.  We have been working on this release for the past few months and we are ready to see it though to the end.
+
+Like most teams, it takes the whole team to accomplish a large goal.  I'm proud to be on a team that feels more like a family.
+
+### Habit 7: Sharpen the saw
+
+Before leaving for my Doctor appointment I spent some time brushing up on on a few AWS service offerings.  I'm looking to build a few tools and wanted to do some research on what I could leverage from AWS.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you, show support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
+[day_one_post]: https://ernesttech.github.io/blog/18-days/day-three
