@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Continuous Self Improvement Challenge - Day 5"
+date:   2016-06-21 19:15:00
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+## Status
+
+Day 5: I'm finding it more and more difficult to come up with examples for the habits in my daily life.  I am keeping them in the front of my mind as I go through my day, but when i sit down to write this post it becomes difficult.
+
+I make a conscious attempt to describe a new situation each day rather than repeating examples from other posts.
+
+For those reading this post who haven't read WHY I'm blogging about these 7 habits, hop over to the [challenge post][challenge_blog_post] where I describe what I'm trying to do.
+
+### Habit 1: Be Proactive
+
+Today I took a pro-active approach to verify everything was ready for an upcoming deployment.  This included ensuring we had a deployment checklist and all parties were aware of their tasks.
+
+### Habit 2: Begin with the end in mind
+
+We have a large backlog of automation stories that we want to prioritize for upcoming sprints.  I took some time today to comb through them and help flush some key stories out.  It won't be enough to call each ready for development, but it'll help the team understand what is required.
+
+### Habit 3: Put first things first
+
+I've declared in [earlier posts][day_one_post] that I want to be remembered as a loving, caring husband and father.  I know that in order to do that I need to be in the best health possible so I can be here for my family.
+
+I've been focusing on eating healthier and getting more exercise on a daily basis.
+
+### Habit 4: Think win-win
+
+I've been working with some team members to cross train in other technical areas.  The benefits go both ways, I get to learn more about certain technologies and they get the experience of teaching others.
+
+### Habit 5: Seek first to understand, then to be understood
+
+Working with a team member today I did not understand a particular situation that came up.  Rather than reacting based on how I interpreted the situation, I re-asked a couple questions in order to fully understand the request.  Once I understood what was being asked of me then I was ready to address the situation.
+
+### Habit 6: Synergize
+
+Many times in our work we end up in a situation where the team has to work together in order to solve issues.  It never fails that the collective knowledge and experience assists with these issues.  I can't imagine how one person could handle everything.
+
+### Habit 7: Sharpen the saw
+
+I continued work on developing a 'server-less' application using AWS Lambda and AWS API Gateway.  This project is something I'm doing to gain familiarity with these AWS tools and best-practices in developing a server-less architecture.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you, show support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
+[day_one_post]: https://ernesttech.github.io/blog/18-days/day-one
