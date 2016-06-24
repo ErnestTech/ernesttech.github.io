@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Continuous Self Improvement Challenge - Day 6"
+date:   2016-06-22 22:15:00
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+## Status
+
+Day 7: I am attending the [Kansas City Developer Conference][KCDC] today.  The first day was really great.  I learned quite a bit from the sessions and it was nice to talk with all the sponsors and the people they had representing them at the conference.
+
+For those reading this post who haven't read WHY I'm blogging about these 7 habits, hop over to the [challenge post][challenge_blog_post] where I describe what I'm trying to do.
+
+### Habit 1: Be Proactive
+
+I took the opportunity to attend some sessions where the topic was something outside of my field.  I think it is important to understand as much as possible about a multitude of topics and schools of thought because they all seem to come back together.
+
+### Habit 2: Begin with the end in mind
+
+Tough one...I took notes of what I thought were key points from each session in order to remember what I could share with our team.
+
+### Habit 3: Put first things first
+
+I took myself for a long run today.  It hurt.
+
+### Habit 4: Think win-win
+
+At the conference I connected with a couple of booths that I felt like I may have something to share.  We discussed a couple of topics that we could work on presenting to a user group.
+
+### Habit 5: Seek first to understand, then to be understood
+
+I talked to a college senior about career paths and choices.  I focused on understanding what his goals were and what type of career he wanted before I gave any advice.
+
+### Habit 6: Synergize
+
+In my conversations with people that I met a the conference we talked about how we could team up to present a couple topics to a user group.
+
+### Habit 7: Sharpen the saw
+
+I spent my day at [Kansas City Developer Conference][KCDC] attending sessions that provided a new perspective on how we develop software and improve our skill of the craft.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you, show support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
+[day_one_post]: https://ernesttech.github.io/blog/18-days/day-one
+[KCDC]: http://www.kcdc.info/
