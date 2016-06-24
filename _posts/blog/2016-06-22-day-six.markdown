@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Continuous Self Improvement Challenge - Day 6"
+date:   2016-06-22 22:15:00
+author: James Byars
+categories:
+- blog
+- 18-Days
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+## Status
+
+Day 6: I'm looking forward to my day tomorrow because I am attending the [Kansas City Developer Conference][KCDC].  I enjoy these conferences because it lets me get out of my daily routine and hear new schools of thought.
+
+For those reading this post who haven't read WHY I'm blogging about these 7 habits, hop over to the [challenge post][challenge_blog_post] where I describe what I'm trying to do.
+
+### Habit 1: Be Proactive
+
+I reached out to my manager to get approval for the [dev conference][KCDC] tomorrow.  I had to consider what questions she may have beforehand and ensure I could support the request by showing how attendance grows myself and how that benefits our team.
+
+### Habit 2: Begin with the end in mind
+
+I took a lot of time yesterday to work on our automation stories.  Automation, or lack thereof, has been one of the biggest issues on our team.  Working through the stories to get them ready for development will make it much easier to tackle our automation goals.
+
+### Habit 3: Put first things first
+
+Today my first priority was getting ready for an upcoming weekend deployment.  Unfortunately, deployments are not yet automated and require quite a bit of time.  I went through my checklist and started making sure everything was in order for the weekend activities.
+
+### Habit 4: Think win-win
+
+I spent some time doing a code review during the day when I knew I had other things that had to be done.  During the code review we found a couple of changes that could have adverse affects on the system and were able to remediate the errors.  I got to learn more about this specific component of the application and ensure that our changes would integrate with the system.
+
+### Habit 5: Seek first to understand, then to be understood
+
+I spent a large amount of time today working out user stories for the future.  Most of my time was spent breaking down how we'll accomplish goals that we've set for ourselves.
+
+### Habit 6: Synergize
+
+Working together on a code review helped a few of us team members grow.
+
+### Habit 7: Sharpen the saw
+
+I again spent more time working on an AWS Lambda project that features a server-less architecture.  More details to come.
+
+### The video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g" frameborder="0" allowfullscreen></iframe>
+
+If this article inspired you, show support [FightMediocrity][author_page] by subscribing to their [channel][author_page].
+
+[youtube_video]: https://goo.gl/ARHXRc
+[author_page]: https://goo.gl/ZRAjft
+[youtube_url]: https://www.youtube.com/
+[challenge_blog_post]: /blog/18-days/continuous-self-improvement-challenge
+[day_one_post]: https://ernesttech.github.io/blog/18-days/day-one
+[KCDC]: http://www.kcdc.info/
